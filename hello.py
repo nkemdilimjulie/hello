@@ -50,7 +50,7 @@ print(string_var, 'is', 'type of', type(string_var))
 print(bool_var, 'is', 'type of', type(bool_var))
 
 
-print('Task 3', 'check type of value (version 2)')
+print('Task 3', 'check type of value')
       
 print(isinstance(num_integer , int))
 
@@ -61,3 +61,16 @@ print(isinstance(num_float , float))
 print(isinstance(num_complex, complex))
 
 print(isinstance(string_var , bool))
+
+print('Task4', 'Check type of value (version 2)')
+
+
+print('Is', num_integer, 'an instance of int?', isinstance(num_integer , int))
+
+print('Is', num_float, 'an instance of int?',  isinstance(num_float , int))
+
+print('Is', num_float, 'an instance of float?', isinstance(num_float , float))
+
+print('Is', num_complex, 'an instance of complex?', isinstance(num_complex, complex))
+
+print('Is', string_var, 'an instance of bool?', isinstance(string_var , bool))
