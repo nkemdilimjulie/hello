@@ -5,6 +5,8 @@
 ----
 
 ## Task 1:
-### Printing Single Objects
+### Printing examples of single Objects 
 
 Data Types
+
+string, int, float, bool (boolean), complex, None
